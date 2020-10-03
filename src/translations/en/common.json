@@ -1,0 +1,5 @@
+{
+    "welcome": {
+        "title": "Good morning {{framework}}"
+    }
+}
